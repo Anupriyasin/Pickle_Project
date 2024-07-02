@@ -1,13 +1,36 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.pickle-card {
+  max-width: 345px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.card-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.price-quantity-container {
+  display: flex;
+  align-items: center;
+}
+
+.price {
+  margin-right: 100px !important; /* Adjust margin as needed */
+}
+
+.quantity-select {
+  background-color: #fff;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  /* padding: 4px 8px; Adjust padding */
+  min-width: 50px; /* Adjust width */
+  height: 28px; /* Adjust height */
+  font-size: 0.875rem; /* Adjust font size */
+}
+.container{
+  width:101%;
+    position:relative;
+    left: -7px;
+    top:-5px;
+     right: 0;
+      margin: 0 auto
 }
