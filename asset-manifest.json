@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pickle_Project/static/css/main.9306a116.css",
+    "main.js": "/Pickle_Project/static/js/main.9c3f6fc0.js",
+    "static/js/453.3eabf427.chunk.js": "/Pickle_Project/static/js/453.3eabf427.chunk.js",
+    "static/media/bg.jpg": "/Pickle_Project/static/media/bg.a947f706c0e56b088480.jpg",
+    "index.html": "/Pickle_Project/index.html",
+    "main.9306a116.css.map": "/Pickle_Project/static/css/main.9306a116.css.map",
+    "main.9c3f6fc0.js.map": "/Pickle_Project/static/js/main.9c3f6fc0.js.map",
+    "453.3eabf427.chunk.js.map": "/Pickle_Project/static/js/453.3eabf427.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9306a116.css",
+    "static/js/main.9c3f6fc0.js"
+  ]
+}
